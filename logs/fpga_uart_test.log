@@ -1,0 +1,8 @@
+INFO:FPGAPreprocessor:FPGA conectat: /dev/cu.usbserial-210292AA76C91 @ 921600 baud (nexys_grayscale)
+INFO:FPGAPreprocessor:Conexiune UART închisă
+Port: /dev/cu.usbserial-210292AA76C91
+Imagine: street.jpg
+[OK] FPGA conectat (mod hardware)
+[OK] Răspuns OK: 640x640 BGR, 1229179.2 ms preprocess, 1229179.2 ms total
+   Salvat: /Users/vdraica/Desktop/disertatie 2/disertatie/yolo_fpga_robot/datasets/demo_results/fpga_uart_test.jpg
+   LED-uri pe placă: idle=1, RX=2, payload=4, TX=8

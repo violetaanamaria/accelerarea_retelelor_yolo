@@ -1,0 +1,801 @@
+scenariu,sectiune,mod,imagine,det_scenariu,clase_gasite,confidence_medie,preprocess_ms,inferenta_ms,total_ms,fps,decizie,motiv_decizie
+persoane,5.7.1,CPU,coco_000000000872_person.jpg,1,person,0.58,0.5,55.41,55.91,17.88,emergency_stop,PERICOL CRITIC: person la distanță 0.87
+persoane,5.7.1,CPU,coco_000000002261_person.jpg,1,person,0.639,0.31,33.74,34.05,29.37,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000002431_person.jpg,0,,,0.36,32.92,33.28,30.05,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000017899_person.jpg,0,,,0.33,30.87,31.2,32.05,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000019109_person.jpg,0,,,0.31,31.43,31.74,31.51,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000025057_person.jpg,1,person,0.813,0.35,29.27,29.61,33.77,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000037689_person.jpg,2,person;person,0.483,0.33,30.45,30.78,32.49,continue,"Obstacol îndepărtat: person, precauție"
+persoane,5.7.1,CPU,coco_000000054931_person.jpg,1,person,0.835,0.32,29.54,29.87,33.48,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000055022_person.jpg,0,,,0.31,29.61,29.92,33.42,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000060102_person.jpg,1,person,0.72,0.37,31.14,31.51,31.73,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU,coco_000000060932_person.jpg,2,person;person,0.579,0.32,30.92,31.24,32.01,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000072281_person.jpg,1,person,0.771,0.31,30.05,30.36,32.93,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000080022_person.jpg,1,person,0.88,0.35,31.21,31.55,31.69,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU,coco_000000084241_person.jpg,2,person;person,0.736,0.32,32.13,32.45,30.82,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000085329_person.jpg,1,person,0.563,0.33,35.0,35.33,28.3,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000085682_person.jpg,0,,,0.32,32.84,33.16,30.16,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000103723_person.jpg,1,person,0.713,0.34,34.3,34.64,28.87,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000114884_person.jpg,2,person;person,0.696,0.64,45.97,46.61,21.45,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000118405_person.jpg,0,,,0.31,35.95,36.25,27.58,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000119516_person.jpg,0,,,0.31,33.82,34.13,29.3,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000122606_person.jpg,0,,,0.35,31.27,31.63,31.62,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000128675_person.jpg,3,person;person;person,0.599,0.31,34.52,34.83,28.71,continue,"Obstacol îndepărtat: person, precauție"
+persoane,5.7.1,CPU,coco_000000132587_person.jpg,0,,,0.31,33.02,33.34,30.0,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000135890_person.jpg,0,,,0.35,42.07,42.43,23.57,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000137294_person.jpg,1,person,0.836,0.37,41.88,42.25,23.67,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000140270_person.jpg,1,person,0.676,0.34,34.16,34.5,28.98,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000143068_person.jpg,1,person,0.805,0.33,33.43,33.76,29.62,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000143556_person.jpg,1,person,0.69,0.33,33.61,33.95,29.46,emergency_stop,PERICOL CRITIC: person la distanță 0.80
+persoane,5.7.1,CPU,coco_000000148739_person.jpg,1,person,0.798,0.31,33.18,33.48,29.87,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000154358_person.jpg,0,,,0.35,34.02,34.37,29.1,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000157601_person.jpg,1,person,0.734,0.32,34.59,34.92,28.64,emergency_stop,PERICOL CRITIC: unknown la distanță 0.80
+persoane,5.7.1,CPU,coco_000000176037_person.jpg,0,,,0.33,36.22,36.55,27.36,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000179174_person.jpg,2,person;person,0.568,0.34,35.04,35.38,28.27,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000185950_person.jpg,1,person,0.501,0.34,35.96,36.29,27.55,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000206411_person.jpg,0,,,0.31,38.05,38.36,26.07,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000207306_person.jpg,0,,,0.35,32.87,33.22,30.1,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000209757_person.jpg,0,,,0.34,33.59,33.93,29.47,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000212453_person.jpg,0,,,0.36,34.12,34.48,29.01,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000214869_person.jpg,0,,,0.37,33.73,34.1,29.33,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000215072_person.jpg,1,person,0.597,0.31,31.07,31.38,31.87,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU,coco_000000216277_person.jpg,1,person,0.56,0.33,32.01,32.34,30.92,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000224807_person.jpg,7,person;person;person;person;person;person;person,0.654,0.31,31.31,31.62,31.62,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000227482_person.jpg,1,person,0.882,0.33,32.61,32.94,30.36,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU,coco_000000248616_person.jpg,3,person;person;person,0.635,0.37,39.67,40.04,24.98,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000250127_person.jpg,1,person,0.846,0.35,31.77,32.12,31.13,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000256775_person.jpg,4,person;person;person;person,0.651,0.44,31.69,32.13,31.12,continue,"Obstacol îndepărtat: person, precauție"
+persoane,5.7.1,CPU,coco_000000272136_person.jpg,0,,,0.31,30.4,30.7,32.57,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000279541_person.jpg,0,,,0.31,32.33,32.65,30.63,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000289343_person.jpg,1,person,0.479,0.31,35.82,36.13,27.68,stop,"Pericol înalt (balanced): person, oprire preventivă"
+persoane,5.7.1,CPU,coco_000000289415_person.jpg,1,person,0.799,0.34,36.16,36.5,27.4,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000292456_person.jpg,0,,,0.33,34.56,34.88,28.67,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000295478_person.jpg,1,person,0.909,0.35,32.89,33.24,30.08,emergency_stop,PERICOL CRITIC: person la distanță 0.96
+persoane,5.7.1,CPU,coco_000000303566_person.jpg,4,person;person;person;person,0.631,0.34,33.05,33.39,29.95,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000312192_person.jpg,0,,,0.36,32.55,32.91,30.38,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000313034_person.jpg,2,person;person,0.684,0.32,32.37,32.69,30.59,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU,coco_000000315187_person.jpg,0,,,0.33,33.45,33.78,29.61,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000317999_person.jpg,0,,,0.38,35.32,35.7,28.01,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000323355_person.jpg,1,person,0.767,0.34,35.48,35.83,27.91,emergency_stop,PERICOL CRITIC: person la distanță 0.96
+persoane,5.7.1,CPU,coco_000000327701_person.jpg,3,person;person;person,0.782,0.32,30.83,31.15,32.1,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000332351_person.jpg,5,person;person;person;person;person,0.54,0.34,30.89,31.23,32.02,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000336053_person.jpg,2,person;person,0.63,0.31,33.31,33.62,29.74,emergency_stop,PERICOL CRITIC: unknown la distanță 0.90
+persoane,5.7.1,CPU,coco_000000345361_person.jpg,3,person;person;person,0.816,0.3,33.02,33.32,30.01,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000347254_person.jpg,3,person;person;person,0.789,0.34,40.0,40.34,24.79,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000354307_person.jpg,0,,,0.38,42.71,43.09,23.21,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000354547_person.jpg,1,person,0.839,0.38,33.46,33.84,29.55,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000368212_person.jpg,1,person,0.623,0.36,33.43,33.79,29.6,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000372819_person.jpg,2,person;person,0.735,0.35,31.16,31.51,31.73,stop,"Pericol înalt (balanced): person, oprire preventivă"
+persoane,5.7.1,CPU,coco_000000383337_person.jpg,1,person,0.549,0.31,33.09,33.41,29.93,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000385190_person.jpg,0,,,0.32,33.35,33.66,29.7,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000390246_person.jpg,1,person,0.726,0.35,35.37,35.72,28.0,stop,"Pericol înalt (balanced): person, oprire preventivă"
+persoane,5.7.1,CPU,coco_000000391722_person.jpg,2,person;person,0.68,0.36,36.56,36.93,27.08,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000394275_person.jpg,0,,,0.34,34.5,34.84,28.7,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000398377_person.jpg,3,person;person;person,0.749,0.37,34.46,34.84,28.71,emergency_stop,PERICOL CRITIC: person la distanță 0.97
+persoane,5.7.1,CPU,coco_000000406129_person.jpg,1,person,0.473,0.33,31.71,32.04,31.22,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000414170_person.jpg,3,person;person;person,0.76,0.35,33.13,33.48,29.87,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000417632_person.jpg,1,person,0.541,0.32,32.13,32.45,30.81,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU,coco_000000427997_person.jpg,1,person,0.694,0.36,32.37,32.73,30.55,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000428111_person.jpg,0,,,0.32,30.68,31.01,32.25,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000434230_person.jpg,0,,,0.32,28.88,29.19,34.25,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000437351_person.jpg,1,person,0.646,0.32,31.43,31.76,31.49,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000441491_person.jpg,0,,,0.34,30.15,30.5,32.79,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000447465_person.jpg,0,,,0.32,32.16,32.49,30.78,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000459195_person.jpg,3,person;person;person,0.71,0.32,30.24,30.56,32.72,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000481480_person.jpg,0,,,0.32,30.38,30.7,32.57,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000490936_person.jpg,1,person,0.756,0.35,30.88,31.23,32.02,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU,coco_000000492758_person.jpg,0,,,0.35,30.39,30.75,32.53,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000497568_person.jpg,0,,,0.32,31.4,31.73,31.52,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000504389_person.jpg,1,person,0.657,0.34,30.61,30.95,32.31,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU,coco_000000512836_person.jpg,0,,,0.31,31.24,31.55,31.7,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000516173_person.jpg,1,person,0.878,0.4,30.75,31.15,32.11,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000527528_person.jpg,0,,,0.33,29.41,29.74,33.63,slow_down,Obstacol la distanță medie (balanced): unknown
+persoane,5.7.1,CPU,coco_000000529939_person.jpg,1,person,0.8,0.33,29.96,30.29,33.01,slow_down,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000548780_person.jpg,3,person;person;person,0.628,0.36,31.48,31.84,31.4,slow_down,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000551215_person.jpg,1,person,0.9,0.33,31.74,32.07,31.18,emergency_stop,PERICOL CRITIC: person la distanță 0.75
+persoane,5.7.1,CPU,coco_000000553788_person.jpg,1,person,0.642,0.34,29.89,30.22,33.09,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000559543_person.jpg,1,person,0.839,0.32,30.97,31.29,31.95,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000561223_person.jpg,1,person,0.912,0.32,30.57,30.9,32.37,emergency_stop,PERICOL CRITIC: person la distanță 0.92
+persoane,5.7.1,CPU,coco_000000563604_person.jpg,3,person;person;person,0.557,0.35,31.02,31.37,31.88,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000563648_person.jpg,0,,,0.34,29.92,30.26,33.04,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU,coco_000000576955_person.jpg,1,person,0.495,0.31,30.88,31.19,32.06,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU+FPGA,coco_000000000872_person.jpg,1,person,0.58,6077.37,49.92,6127.29,0.16,emergency_stop,PERICOL CRITIC: person la distanță 0.87
+persoane,5.7.1,CPU+FPGA,coco_000000002261_person.jpg,1,person,0.639,0.33,31.14,31.47,31.78,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000002431_person.jpg,0,,,0.36,34.02,34.38,29.09,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000017899_person.jpg,0,,,0.37,33.28,33.65,29.72,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU+FPGA,coco_000000019109_person.jpg,0,,,0.32,30.7,31.03,32.23,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000025057_person.jpg,1,person,0.813,0.31,32.7,33.01,30.29,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000037689_person.jpg,2,person;person,0.483,0.36,30.47,30.83,32.44,continue,"Obstacol îndepărtat: person, precauție"
+persoane,5.7.1,CPU+FPGA,coco_000000054931_person.jpg,1,person,0.835,0.31,29.85,30.16,33.15,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000055022_person.jpg,0,,,0.31,29.81,30.12,33.2,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000060102_person.jpg,1,person,0.72,0.32,31.35,31.67,31.57,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU+FPGA,coco_000000060932_person.jpg,2,person;person,0.579,0.33,30.33,30.66,32.61,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000072281_person.jpg,1,person,0.771,0.34,30.32,30.65,32.62,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000080022_person.jpg,1,person,0.88,0.31,31.94,32.25,31.01,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU+FPGA,coco_000000084241_person.jpg,2,person;person,0.736,0.31,34.13,34.43,29.04,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000085329_person.jpg,1,person,0.563,0.33,31.82,32.16,31.1,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000085682_person.jpg,0,,,0.31,30.05,30.36,32.94,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU+FPGA,coco_000000103723_person.jpg,1,person,0.713,0.33,29.35,29.68,33.69,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000114884_person.jpg,2,person;person,0.696,0.31,31.14,31.45,31.8,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000118405_person.jpg,0,,,0.32,30.55,30.87,32.4,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU+FPGA,coco_000000119516_person.jpg,0,,,0.31,30.88,31.19,32.06,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000122606_person.jpg,0,,,0.32,31.96,32.27,30.99,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000128675_person.jpg,3,person;person;person,0.599,0.34,31.7,32.04,31.21,continue,"Obstacol îndepărtat: person, precauție"
+persoane,5.7.1,CPU+FPGA,coco_000000132587_person.jpg,0,,,0.36,30.18,30.54,32.74,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000135890_person.jpg,0,,,0.36,30.95,31.31,31.94,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000137294_person.jpg,1,person,0.836,0.37,31.14,31.5,31.74,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU+FPGA,coco_000000140270_person.jpg,1,person,0.676,0.35,32.22,32.57,30.7,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000143068_person.jpg,1,person,0.805,0.32,30.5,30.81,32.45,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000143556_person.jpg,1,person,0.69,0.36,29.78,30.13,33.19,emergency_stop,PERICOL CRITIC: person la distanță 0.80
+persoane,5.7.1,CPU+FPGA,coco_000000148739_person.jpg,1,person,0.798,0.31,29.83,30.14,33.18,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000154358_person.jpg,0,,,0.31,31.63,31.94,31.31,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000157601_person.jpg,1,person,0.734,0.31,29.64,29.95,33.38,emergency_stop,PERICOL CRITIC: unknown la distanță 0.80
+persoane,5.7.1,CPU+FPGA,coco_000000176037_person.jpg,0,,,0.31,29.51,29.82,33.53,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000179174_person.jpg,2,person;person,0.568,0.31,30.69,31.0,32.26,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000185950_person.jpg,1,person,0.501,0.31,30.51,30.82,32.45,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU+FPGA,coco_000000206411_person.jpg,0,,,0.31,30.11,30.42,32.87,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000207306_person.jpg,0,,,0.31,30.28,30.59,32.7,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000209757_person.jpg,0,,,0.37,33.55,33.92,29.48,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU+FPGA,coco_000000212453_person.jpg,0,,,0.35,31.99,32.34,30.92,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000214869_person.jpg,0,,,0.31,30.9,31.21,32.04,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000215072_person.jpg,1,person,0.597,0.32,29.39,29.7,33.67,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU+FPGA,coco_000000216277_person.jpg,1,person,0.56,0.31,32.94,33.25,30.08,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000224807_person.jpg,7,person;person;person;person;person;person;person,0.654,0.31,33.54,33.84,29.55,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000227482_person.jpg,1,person,0.882,0.31,30.12,30.43,32.86,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU+FPGA,coco_000000248616_person.jpg,3,person;person;person,0.635,0.32,30.65,30.97,32.29,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000250127_person.jpg,1,person,0.846,0.31,29.64,29.95,33.39,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000256775_person.jpg,4,person;person;person;person,0.651,0.32,32.95,33.27,30.06,continue,"Obstacol îndepărtat: person, precauție"
+persoane,5.7.1,CPU+FPGA,coco_000000272136_person.jpg,0,,,0.34,29.95,30.3,33.01,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000279541_person.jpg,0,,,0.33,29.82,30.15,33.17,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000289343_person.jpg,1,person,0.479,0.31,31.39,31.7,31.54,stop,"Pericol înalt (balanced): person, oprire preventivă"
+persoane,5.7.1,CPU+FPGA,coco_000000289415_person.jpg,1,person,0.799,0.32,30.62,30.94,32.32,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000292456_person.jpg,0,,,0.3,29.82,30.12,33.2,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000295478_person.jpg,1,person,0.909,0.34,29.78,30.12,33.2,emergency_stop,PERICOL CRITIC: person la distanță 0.96
+persoane,5.7.1,CPU+FPGA,coco_000000303566_person.jpg,4,person;person;person;person,0.631,0.37,41.38,41.75,23.95,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000312192_person.jpg,0,,,0.31,31.5,31.81,31.43,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000313034_person.jpg,2,person;person,0.684,0.31,32.1,32.41,30.85,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU+FPGA,coco_000000315187_person.jpg,0,,,0.34,35.14,35.48,28.19,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000317999_person.jpg,0,,,0.31,30.86,31.17,32.08,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000323355_person.jpg,1,person,0.767,0.31,33.44,33.76,29.62,emergency_stop,PERICOL CRITIC: person la distanță 0.96
+persoane,5.7.1,CPU+FPGA,coco_000000327701_person.jpg,3,person;person;person,0.782,0.35,31.25,31.6,31.64,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000332351_person.jpg,5,person;person;person;person;person,0.54,0.31,33.3,33.61,29.75,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000336053_person.jpg,2,person;person,0.63,0.31,30.81,31.12,32.13,emergency_stop,PERICOL CRITIC: unknown la distanță 0.90
+persoane,5.7.1,CPU+FPGA,coco_000000345361_person.jpg,3,person;person;person,0.816,0.31,30.53,30.84,32.43,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000347254_person.jpg,3,person;person;person,0.789,0.31,31.02,31.33,31.92,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000354307_person.jpg,0,,,0.3,29.6,29.91,33.44,continue,"Drum liber, niciun obstacol detectat"
+persoane,5.7.1,CPU+FPGA,coco_000000354547_person.jpg,1,person,0.839,0.31,30.0,30.31,32.99,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000368212_person.jpg,1,person,0.623,0.31,29.39,29.7,33.67,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000372819_person.jpg,2,person;person,0.735,0.31,31.02,31.33,31.92,stop,"Pericol înalt (balanced): person, oprire preventivă"
+persoane,5.7.1,CPU+FPGA,coco_000000383337_person.jpg,1,person,0.549,0.35,30.81,31.16,32.09,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000385190_person.jpg,0,,,0.31,33.13,33.44,29.9,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000390246_person.jpg,1,person,0.726,0.36,31.34,31.7,31.54,stop,"Pericol înalt (balanced): person, oprire preventivă"
+persoane,5.7.1,CPU+FPGA,coco_000000391722_person.jpg,2,person;person,0.68,0.32,33.11,33.43,29.91,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000394275_person.jpg,0,,,0.31,32.77,33.07,30.23,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000398377_person.jpg,3,person;person;person,0.749,0.32,30.34,30.67,32.61,emergency_stop,PERICOL CRITIC: person la distanță 0.97
+persoane,5.7.1,CPU+FPGA,coco_000000406129_person.jpg,1,person,0.473,0.31,32.59,32.91,30.39,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000414170_person.jpg,3,person;person;person,0.76,0.32,29.58,29.89,33.45,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000417632_person.jpg,1,person,0.541,0.38,32.21,32.59,30.68,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU+FPGA,coco_000000427997_person.jpg,1,person,0.694,0.32,29.79,30.11,33.21,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000428111_person.jpg,0,,,0.33,28.91,29.24,34.2,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000434230_person.jpg,0,,,0.3,29.78,30.08,33.24,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000437351_person.jpg,1,person,0.646,0.31,31.48,31.79,31.46,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU+FPGA,coco_000000441491_person.jpg,0,,,0.31,29.21,29.52,33.88,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000447465_person.jpg,0,,,0.38,29.6,29.97,33.37,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000459195_person.jpg,3,person;person;person,0.71,0.3,31.88,32.18,31.07,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU+FPGA,coco_000000481480_person.jpg,0,,,0.31,31.5,31.81,31.44,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000490936_person.jpg,1,person,0.756,0.31,31.88,32.19,31.06,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000492758_person.jpg,0,,,0.36,31.29,31.65,31.59,emergency_stop,PERICOL CRITIC: unknown la distanță 0.83
+persoane,5.7.1,CPU+FPGA,coco_000000497568_person.jpg,0,,,0.32,32.16,32.47,30.79,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000504389_person.jpg,1,person,0.657,0.3,30.27,30.58,32.7,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000512836_person.jpg,0,,,0.37,33.04,33.4,29.94,stop,"Pericol înalt (balanced): unknown, oprire preventivă"
+persoane,5.7.1,CPU+FPGA,coco_000000516173_person.jpg,1,person,0.878,0.38,30.55,30.93,32.33,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000527528_person.jpg,0,,,0.35,29.5,29.84,33.51,stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000529939_person.jpg,1,person,0.8,0.31,30.13,30.44,32.85,emergency_stop,PERICOL CRITIC: person la distanță 0.93
+persoane,5.7.1,CPU+FPGA,coco_000000548780_person.jpg,3,person;person;person,0.628,0.32,29.72,30.04,33.29,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000551215_person.jpg,1,person,0.9,0.31,31.28,31.59,31.66,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000553788_person.jpg,1,person,0.642,0.33,30.78,31.11,32.14,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+persoane,5.7.1,CPU+FPGA,coco_000000559543_person.jpg,1,person,0.839,0.32,32.86,33.19,30.13,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000561223_person.jpg,1,person,0.912,0.35,32.51,32.86,30.43,emergency_stop,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000563604_person.jpg,3,person;person;person,0.557,0.31,32.04,32.35,30.91,continue,"Obstacol îndepărtat: person, precauție"
+persoane,5.7.1,CPU+FPGA,coco_000000563648_person.jpg,0,,,0.31,31.04,31.35,31.9,continue,Menținere decizie anterioară (reaction time)
+persoane,5.7.1,CPU+FPGA,coco_000000576955_person.jpg,1,person,0.495,0.32,30.98,31.3,31.94,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000008899_bicycle.jpg,0,,,0.36,30.67,31.03,32.23,continue,"Obstacol îndepărtat: unknown, precauție"
+vehicule,5.7.2,CPU,coco_000000009891_car.jpg,1,truck,0.5,0.31,29.56,29.87,33.48,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000013348_truck.jpg,0,,,0.31,30.64,30.95,32.31,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000026204_bus_car.jpg,4,bus;car;truck;truck,0.639,0.32,29.2,29.52,33.88,stop,"Pericol înalt (balanced): vehicle, oprire preventivă"
+vehicule,5.7.2,CPU,coco_000000026926_car.jpg,0,,,0.36,33.13,33.49,29.86,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000030828_car.jpg,0,,,0.39,33.88,34.27,29.18,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000032941_bus_car.jpg,2,truck;car,0.613,0.32,30.69,31.01,32.24,emergency_stop,PERICOL CRITIC: unknown la distanță 0.87
+vehicule,5.7.2,CPU,coco_000000033759_car_truck.jpg,0,,,0.31,29.23,29.53,33.86,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000033854_bus_car.jpg,1,bus,0.735,0.31,30.33,30.64,32.63,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000069213_motorcycle.jpg,0,,,0.35,30.27,30.62,32.65,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+vehicule,5.7.2,CPU,coco_000000072852_bicycle.jpg,0,,,0.32,30.79,31.11,32.15,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000074256_bus.jpg,0,,,0.31,33.15,33.45,29.89,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000076417_car_truck.jpg,0,,,0.32,30.7,31.01,32.24,emergency_stop,PERICOL CRITIC: unknown la distanță 1.00
+vehicule,5.7.2,CPU,coco_000000076547_bicycle.jpg,1,bicycle,0.621,0.31,30.61,30.91,32.35,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000081394_car_motorcycle.jpg,1,truck,0.689,0.31,29.89,30.2,33.11,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000085376_car_motorcycle.jpg,2,car;truck,0.556,0.31,29.9,30.21,33.1,slow_down,Obstacol la distanță medie (balanced): vehicle
+vehicule,5.7.2,CPU,coco_000000086483_car.jpg,0,,,0.35,32.96,33.31,30.02,slow_down,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000095843_bus.jpg,1,truck,0.607,0.36,29.75,30.11,33.21,slow_down,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000100274_car_truck.jpg,1,truck,0.514,0.35,31.25,31.6,31.64,continue,"Obstacol îndepărtat: vehicle, precauție"
+vehicule,5.7.2,CPU,coco_000000102411_car_motorcycle.jpg,1,motorcycle,0.55,0.31,33.45,33.76,29.62,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000102805_car_truck.jpg,1,truck,0.491,0.31,30.06,30.37,32.93,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000105923_car.jpg,1,car,0.455,0.31,32.06,32.37,30.89,continue,"Obstacol îndepărtat: vehicle, precauție"
+vehicule,5.7.2,CPU,coco_000000111086_car.jpg,0,,,0.32,29.96,30.28,33.03,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000122166_bicycle_car.jpg,1,truck,0.534,0.36,31.06,31.42,31.83,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000130386_bicycle_car.jpg,0,,,0.3,31.21,31.51,31.73,continue,"Drum liber, niciun obstacol detectat"
+vehicule,5.7.2,CPU,coco_000000132375_bicycle.jpg,0,,,0.33,30.64,30.97,32.29,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000133819_bus.jpg,1,bus,0.628,0.32,29.75,30.07,33.26,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000136715_car_motorcycle.jpg,1,motorcycle,0.452,0.35,29.41,29.76,33.6,continue,"Drum liber, niciun obstacol detectat"
+vehicule,5.7.2,CPU,coco_000000143931_bus.jpg,1,truck,0.5,0.31,30.18,30.49,32.8,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000146498_car.jpg,0,,,0.35,31.11,31.45,31.79,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000153011_bus_car.jpg,1,car,0.5,0.31,30.37,30.68,32.6,emergency_stop,PERICOL CRITIC: person la distanță 0.73
+vehicule,5.7.2,CPU,coco_000000155341_car_truck.jpg,2,truck;truck,0.617,0.31,29.6,29.91,33.44,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000157928_car.jpg,0,,,0.33,31.61,31.94,31.31,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000158744_car.jpg,1,car,0.707,0.32,31.87,32.18,31.07,continue,"Drum liber, niciun obstacol detectat"
+vehicule,5.7.2,CPU,coco_000000180878_car.jpg,0,,,0.31,30.62,30.93,32.33,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000190753_bicycle.jpg,0,,,0.33,29.37,29.71,33.66,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000192716_car.jpg,1,truck,0.504,0.33,30.7,31.03,32.23,stop,Semn STOP detectat (conf: 0.94)
+vehicule,5.7.2,CPU,coco_000000198489_car.jpg,1,car,0.64,0.31,30.03,30.34,32.96,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000204186_motorcycle.jpg,1,motorcycle,0.61,0.31,33.98,34.29,29.16,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000204871_bus_car.jpg,1,car,0.636,0.36,32.58,32.93,30.36,stop,Oprire la semn STOP (0.1s/2.0s)
+vehicule,5.7.2,CPU,coco_000000205647_truck.jpg,1,truck,0.91,0.32,30.04,30.36,32.93,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000213605_bus_car.jpg,2,bus;truck,0.749,0.33,32.67,32.99,30.31,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000231508_car.jpg,0,,,0.34,31.57,31.91,31.34,stop,Oprire la semn STOP (0.2s/2.0s)
+vehicule,5.7.2,CPU,coco_000000235399_truck.jpg,0,,,0.32,30.45,30.77,32.5,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000245320_car.jpg,0,,,0.35,29.54,29.9,33.45,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000249219_bus.jpg,1,bus,0.734,0.32,30.18,30.5,32.79,stop,Oprire la semn STOP (0.3s/2.0s)
+vehicule,5.7.2,CPU,coco_000000256941_bicycle.jpg,0,,,0.3,32.0,32.3,30.96,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000261888_bicycle.jpg,0,,,0.33,29.66,29.99,33.34,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000279714_car.jpg,1,car,0.888,0.31,29.61,29.93,33.42,stop,Oprire la semn STOP (0.4s/2.0s)
+vehicule,5.7.2,CPU,coco_000000297022_truck.jpg,0,,,0.32,29.97,30.29,33.01,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000297562_car.jpg,0,,,0.31,30.38,30.68,32.59,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000303305_bus_car.jpg,2,bus;bus,0.704,0.35,32.75,33.1,30.21,stop,Oprire la semn STOP (0.5s/2.0s)
+vehicule,5.7.2,CPU,coco_000000308531_car.jpg,0,,,0.32,34.06,34.38,29.09,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000312421_motorcycle.jpg,0,,,0.35,30.57,30.92,32.34,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000319534_bus.jpg,0,,,0.31,31.08,31.38,31.86,stop,Oprire la semn STOP (0.7s/2.0s)
+vehicule,5.7.2,CPU,coco_000000322864_car.jpg,1,car,0.557,0.32,35.55,35.87,27.87,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000326627_car.jpg,2,car;car,0.589,0.31,30.95,31.25,32.0,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000335177_car_truck.jpg,1,truck,0.645,0.37,36.8,37.17,26.9,stop,Oprire la semn STOP (0.8s/2.0s)
+vehicule,5.7.2,CPU,coco_000000338219_motorcycle.jpg,1,bicycle,0.561,0.31,35.04,35.35,28.29,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000338624_car.jpg,0,,,0.31,31.11,31.42,31.83,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000343561_bicycle.jpg,1,bicycle,0.578,0.38,30.59,30.97,32.29,stop,Oprire la semn STOP (0.9s/2.0s)
+vehicule,5.7.2,CPU,coco_000000344888_car_truck.jpg,0,,,0.35,31.99,32.34,30.92,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000350003_bicycle_car.jpg,2,truck;car,0.62,0.31,31.85,32.16,31.09,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000357737_bicycle_car.jpg,2,truck;bicycle,0.601,0.33,32.42,32.75,30.54,stop,Oprire la semn STOP (1.0s/2.0s)
+vehicule,5.7.2,CPU,coco_000000363188_car.jpg,0,,,0.35,30.01,30.36,32.94,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000365642_car.jpg,3,car;car;truck,0.52,0.31,38.86,39.18,25.53,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000372317_bus.jpg,1,bus,0.791,0.31,32.85,33.16,30.15,stop,Oprire la semn STOP (1.1s/2.0s)
+vehicule,5.7.2,CPU,coco_000000374545_bicycle.jpg,0,,,0.31,31.04,31.35,31.9,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000383289_car.jpg,1,car,0.483,0.32,29.27,29.59,33.79,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000408120_car.jpg,0,,,0.31,30.76,31.07,32.19,stop,Oprire la semn STOP (1.2s/2.0s)
+vehicule,5.7.2,CPU,coco_000000414133_car.jpg,0,,,0.32,29.91,30.22,33.09,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000417779_car.jpg,0,,,0.34,31.51,31.85,31.39,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000421455_car_truck.jpg,0,,,0.31,32.41,32.71,30.57,stop,Oprire la semn STOP (1.3s/2.0s)
+vehicule,5.7.2,CPU,coco_000000426166_bicycle.jpg,1,bicycle,0.486,0.34,31.92,32.27,30.99,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000430073_motorcycle.jpg,0,,,0.35,30.8,31.16,32.1,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000439180_truck.jpg,0,,,0.31,29.79,30.1,33.22,stop,Oprire la semn STOP (1.5s/2.0s)
+vehicule,5.7.2,CPU,coco_000000439854_bicycle.jpg,0,,,0.31,30.46,30.77,32.5,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000446206_bus.jpg,1,bus,0.908,0.32,32.36,32.68,30.6,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000449312_car.jpg,0,,,0.32,32.83,33.15,30.17,stop,Oprire la semn STOP (1.6s/2.0s)
+vehicule,5.7.2,CPU,coco_000000452321_bus.jpg,2,bus;bus,0.726,0.37,32.7,33.07,30.24,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000454798_bus_truck.jpg,0,,,0.32,31.87,32.19,31.07,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000454978_motorcycle.jpg,1,motorcycle,0.599,0.32,30.16,30.47,32.82,stop,Oprire la semn STOP (1.7s/2.0s)
+vehicule,5.7.2,CPU,coco_000000458702_car.jpg,0,,,0.31,31.12,31.43,31.82,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000462756_car_motorcycle.jpg,1,truck,0.584,0.34,31.36,31.71,31.54,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000464824_car.jpg,0,,,0.35,31.42,31.78,31.47,stop,Oprire la semn STOP (1.8s/2.0s)
+vehicule,5.7.2,CPU,coco_000000465675_truck.jpg,0,,,0.35,30.82,31.17,32.09,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000468124_bus_car.jpg,1,bus,0.494,0.36,30.85,31.21,32.04,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000468332_car.jpg,0,,,0.31,32.31,32.62,30.66,stop,Oprire la semn STOP (1.9s/2.0s)
+vehicule,5.7.2,CPU,coco_000000476119_car_truck.jpg,1,car,0.477,0.32,30.89,31.21,32.04,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000485237_car_truck.jpg,0,,,0.31,29.54,29.85,33.5,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000490936_bicycle_car.jpg,0,,,0.32,38.67,38.99,25.65,continue,"Drum liber, niciun obstacol detectat"
+vehicule,5.7.2,CPU,coco_000000499622_motorcycle.jpg,0,,,0.37,32.22,32.59,30.69,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000523782_truck.jpg,1,truck,0.492,0.31,31.59,31.9,31.35,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000555050_car.jpg,1,car,0.899,0.31,30.38,30.69,32.59,continue,"Obstacol îndepărtat: traffic_sign, precauție"
+vehicule,5.7.2,CPU,coco_000000563702_truck.jpg,1,truck,0.528,0.31,31.43,31.74,31.5,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000564336_car_truck.jpg,0,,,0.31,29.93,30.24,33.07,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000567640_car_truck.jpg,0,,,0.32,29.47,29.79,33.57,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+vehicule,5.7.2,CPU,coco_000000569030_car_truck.jpg,0,,,0.3,31.93,32.24,31.02,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000572956_motorcycle.jpg,2,motorcycle;motorcycle,0.503,0.35,32.02,32.37,30.89,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU,coco_000000574425_bus.jpg,0,,,0.35,31.12,31.47,31.78,emergency_stop,PERICOL CRITIC: unknown la distanță 1.00
+vehicule,5.7.2,CPU+FPGA,coco_000000008899_bicycle.jpg,0,,,6080.85,67.26,6148.11,0.16,continue,"Obstacol îndepărtat: unknown, precauție"
+vehicule,5.7.2,CPU+FPGA,coco_000000009891_car.jpg,1,truck,0.5,0.38,32.86,33.23,30.09,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000013348_truck.jpg,0,,,0.35,31.69,32.04,31.21,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000026204_bus_car.jpg,4,bus;car;truck;truck,0.639,0.31,32.6,32.91,30.39,stop,"Pericol înalt (balanced): vehicle, oprire preventivă"
+vehicule,5.7.2,CPU+FPGA,coco_000000026926_car.jpg,0,,,0.31,32.39,32.71,30.57,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000030828_car.jpg,0,,,0.33,29.99,30.32,32.98,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000032941_bus_car.jpg,2,truck;car,0.613,0.32,32.1,32.42,30.85,emergency_stop,PERICOL CRITIC: unknown la distanță 0.87
+vehicule,5.7.2,CPU+FPGA,coco_000000033759_car_truck.jpg,0,,,0.31,32.02,32.32,30.94,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000033854_bus_car.jpg,1,bus,0.735,0.36,31.36,31.72,31.53,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000069213_motorcycle.jpg,0,,,0.32,30.96,31.28,31.97,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+vehicule,5.7.2,CPU+FPGA,coco_000000072852_bicycle.jpg,0,,,0.32,31.11,31.43,31.82,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000074256_bus.jpg,0,,,0.32,33.23,33.56,29.8,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000076417_car_truck.jpg,0,,,0.35,30.78,31.13,32.12,emergency_stop,PERICOL CRITIC: unknown la distanță 1.00
+vehicule,5.7.2,CPU+FPGA,coco_000000076547_bicycle.jpg,1,bicycle,0.621,0.35,33.25,33.6,29.76,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000081394_car_motorcycle.jpg,1,truck,0.689,0.37,31.18,31.54,31.7,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000085376_car_motorcycle.jpg,2,car;truck,0.556,0.33,32.51,32.84,30.45,slow_down,Obstacol la distanță medie (balanced): vehicle
+vehicule,5.7.2,CPU+FPGA,coco_000000086483_car.jpg,0,,,0.31,29.77,30.08,33.24,slow_down,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000095843_bus.jpg,1,truck,0.607,0.37,33.69,34.06,29.36,slow_down,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000100274_car_truck.jpg,1,truck,0.514,0.32,34.5,34.82,28.72,continue,"Obstacol îndepărtat: vehicle, precauție"
+vehicule,5.7.2,CPU+FPGA,coco_000000102411_car_motorcycle.jpg,1,motorcycle,0.55,0.37,33.56,33.93,29.47,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000102805_car_truck.jpg,1,truck,0.491,0.31,30.94,31.25,32.0,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000105923_car.jpg,1,car,0.455,0.32,30.71,31.02,32.24,continue,"Obstacol îndepărtat: vehicle, precauție"
+vehicule,5.7.2,CPU+FPGA,coco_000000111086_car.jpg,0,,,0.32,32.32,32.63,30.64,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000122166_bicycle_car.jpg,1,truck,0.534,0.31,32.15,32.46,30.8,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000130386_bicycle_car.jpg,0,,,0.34,30.72,31.06,32.19,continue,"Drum liber, niciun obstacol detectat"
+vehicule,5.7.2,CPU+FPGA,coco_000000132375_bicycle.jpg,0,,,0.32,34.49,34.81,28.73,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000133819_bus.jpg,1,bus,0.628,0.32,32.32,32.64,30.64,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000136715_car_motorcycle.jpg,1,motorcycle,0.452,0.31,30.03,30.34,32.95,continue,"Drum liber, niciun obstacol detectat"
+vehicule,5.7.2,CPU+FPGA,coco_000000143931_bus.jpg,1,truck,0.5,0.31,29.76,30.06,33.26,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000146498_car.jpg,0,,,0.31,32.66,32.97,30.33,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000153011_bus_car.jpg,1,car,0.5,0.32,30.8,31.12,32.13,emergency_stop,PERICOL CRITIC: person la distanță 0.73
+vehicule,5.7.2,CPU+FPGA,coco_000000155341_car_truck.jpg,2,truck;truck,0.617,0.31,31.21,31.51,31.73,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000157928_car.jpg,0,,,0.31,30.42,30.73,32.54,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000158744_car.jpg,1,car,0.707,0.32,31.89,32.21,31.05,continue,"Drum liber, niciun obstacol detectat"
+vehicule,5.7.2,CPU+FPGA,coco_000000180878_car.jpg,0,,,0.32,32.7,33.02,30.29,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000190753_bicycle.jpg,0,,,0.35,31.98,32.33,30.94,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000192716_car.jpg,1,truck,0.504,0.35,30.49,30.85,32.42,stop,Semn STOP detectat (conf: 0.94)
+vehicule,5.7.2,CPU+FPGA,coco_000000198489_car.jpg,1,car,0.64,0.31,30.64,30.95,32.31,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000204186_motorcycle.jpg,1,motorcycle,0.61,0.31,31.63,31.94,31.31,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000204871_bus_car.jpg,1,car,0.636,0.31,29.67,29.98,33.36,stop,Oprire la semn STOP (0.1s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000205647_truck.jpg,1,truck,0.91,0.32,30.73,31.05,32.2,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000213605_bus_car.jpg,2,bus;truck,0.749,0.31,31.8,32.12,31.13,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000231508_car.jpg,0,,,0.36,31.85,32.22,31.04,stop,Oprire la semn STOP (0.2s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000235399_truck.jpg,0,,,0.31,29.79,30.1,33.22,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000245320_car.jpg,0,,,0.31,30.27,30.58,32.7,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000249219_bus.jpg,1,bus,0.734,0.31,30.75,31.05,32.2,stop,Oprire la semn STOP (0.3s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000256941_bicycle.jpg,0,,,0.31,30.29,30.6,32.68,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000261888_bicycle.jpg,0,,,0.31,30.7,31.01,32.25,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000279714_car.jpg,1,car,0.888,0.31,30.31,30.62,32.66,stop,Oprire la semn STOP (0.4s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000297022_truck.jpg,0,,,0.33,32.27,32.6,30.68,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000297562_car.jpg,0,,,0.35,30.24,30.59,32.69,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000303305_bus_car.jpg,2,bus;bus,0.704,0.35,30.01,30.35,32.94,stop,Oprire la semn STOP (0.5s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000308531_car.jpg,0,,,0.31,29.97,30.28,33.03,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000312421_motorcycle.jpg,0,,,0.31,31.72,32.03,31.22,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000319534_bus.jpg,0,,,0.31,32.82,33.12,30.19,stop,Oprire la semn STOP (0.6s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000322864_car.jpg,1,car,0.557,0.32,31.18,31.5,31.75,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000326627_car.jpg,2,car;car,0.589,0.33,29.85,30.18,33.14,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000335177_car_truck.jpg,1,truck,0.645,0.32,29.17,29.5,33.9,stop,Oprire la semn STOP (0.7s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000338219_motorcycle.jpg,1,bicycle,0.561,0.31,29.81,30.12,33.2,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000338624_car.jpg,0,,,0.34,31.3,31.64,31.61,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000343561_bicycle.jpg,1,bicycle,0.578,0.31,31.93,32.24,31.02,stop,Oprire la semn STOP (0.8s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000344888_car_truck.jpg,0,,,0.33,32.25,32.58,30.7,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000350003_bicycle_car.jpg,2,truck;car,0.62,0.31,29.82,30.13,33.19,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000357737_bicycle_car.jpg,2,truck;bicycle,0.601,0.32,30.15,30.47,32.82,stop,Oprire la semn STOP (1.0s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000363188_car.jpg,0,,,0.31,32.79,33.1,30.21,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000365642_car.jpg,3,car;car;truck,0.52,0.31,31.62,31.93,31.32,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000372317_bus.jpg,1,bus,0.791,0.33,31.26,31.6,31.65,stop,Oprire la semn STOP (1.1s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000374545_bicycle.jpg,0,,,0.36,33.55,33.91,29.49,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000383289_car.jpg,1,car,0.483,0.31,30.36,30.68,32.6,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000408120_car.jpg,0,,,0.36,32.21,32.57,30.7,stop,Oprire la semn STOP (1.2s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000414133_car.jpg,0,,,0.33,30.12,30.45,32.84,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000417779_car.jpg,0,,,0.33,30.72,31.05,32.21,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000421455_car_truck.jpg,0,,,0.3,33.47,33.77,29.61,stop,Oprire la semn STOP (1.3s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000426166_bicycle.jpg,1,bicycle,0.486,0.36,29.98,30.34,32.96,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000430073_motorcycle.jpg,0,,,0.33,30.07,30.39,32.9,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000439180_truck.jpg,0,,,0.31,29.45,29.76,33.61,stop,Oprire la semn STOP (1.4s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000439854_bicycle.jpg,0,,,0.33,29.34,29.66,33.71,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000446206_bus.jpg,1,bus,0.908,0.32,30.47,30.79,32.48,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000449312_car.jpg,0,,,0.32,29.61,29.93,33.41,stop,Oprire la semn STOP (1.5s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000452321_bus.jpg,2,bus;bus,0.726,0.31,30.89,31.19,32.06,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000454798_bus_truck.jpg,0,,,0.31,31.32,31.63,31.61,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000454978_motorcycle.jpg,1,motorcycle,0.599,0.31,30.71,31.02,32.24,stop,Oprire la semn STOP (1.6s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000458702_car.jpg,0,,,0.32,31.41,31.73,31.51,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000462756_car_motorcycle.jpg,1,truck,0.584,0.31,32.5,32.81,30.48,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000464824_car.jpg,0,,,0.34,31.4,31.74,31.5,stop,Oprire la semn STOP (1.7s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000465675_truck.jpg,0,,,0.32,30.89,31.21,32.04,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000468124_bus_car.jpg,1,bus,0.494,0.33,32.47,32.81,30.48,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000468332_car.jpg,0,,,0.33,33.06,33.39,29.95,stop,Oprire la semn STOP (1.8s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000476119_car_truck.jpg,1,car,0.477,0.35,33.26,33.61,29.76,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000485237_car_truck.jpg,0,,,0.3,30.57,30.87,32.39,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000490936_bicycle_car.jpg,0,,,0.34,31.26,31.6,31.65,stop,Oprire la semn STOP (1.9s/2.0s)
+vehicule,5.7.2,CPU+FPGA,coco_000000499622_motorcycle.jpg,0,,,0.35,30.87,31.22,32.03,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000523782_truck.jpg,1,truck,0.492,0.36,30.39,30.75,32.53,stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000555050_car.jpg,1,car,0.899,0.31,30.24,30.55,32.73,continue,"Obstacol îndepărtat: traffic_sign, precauție"
+vehicule,5.7.2,CPU+FPGA,coco_000000563702_truck.jpg,1,truck,0.528,0.34,32.87,33.21,30.11,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000564336_car_truck.jpg,0,,,0.31,30.54,30.85,32.41,continue,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000567640_car_truck.jpg,0,,,0.32,29.99,30.3,33.0,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+vehicule,5.7.2,CPU+FPGA,coco_000000569030_car_truck.jpg,0,,,0.31,29.57,29.87,33.48,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000572956_motorcycle.jpg,2,motorcycle;motorcycle,0.503,0.31,30.76,31.07,32.19,emergency_stop,Menținere decizie anterioară (reaction time)
+vehicule,5.7.2,CPU+FPGA,coco_000000574425_bus.jpg,0,,,0.32,31.02,31.34,31.91,emergency_stop,PERICOL CRITIC: unknown la distanță 1.00
+animale,5.7.3,CPU,coco_000000001675_cat.jpg,0,,,0.38,38.3,38.68,25.85,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000007386_dog.jpg,0,,,0.36,34.08,34.44,29.04,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000010363_cat.jpg,0,,,0.31,31.78,32.09,31.16,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000018833_cat.jpg,0,,,0.36,33.61,33.97,29.44,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000022192_dog.jpg,0,,,0.33,31.02,31.35,31.9,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000022892_cat_dog.jpg,0,,,0.32,30.49,30.81,32.45,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000047121_cat.jpg,1,cat,0.732,0.36,31.49,31.84,31.4,emergency_stop,PERICOL CRITIC: animal la distanță 1.00
+animale,5.7.3,CPU,coco_000000049269_dog.jpg,0,,,0.32,30.97,31.29,31.96,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000049810_cat.jpg,0,,,0.31,29.51,29.82,33.53,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000052891_dog.jpg,0,,,0.31,31.3,31.61,31.63,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000058111_cat.jpg,0,,,0.36,32.2,32.57,30.71,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000060835_dog.jpg,0,,,0.32,30.39,30.71,32.56,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000063552_cat.jpg,0,,,0.36,32.72,33.08,30.23,emergency_stop,PERICOL CRITIC: unknown la distanță 0.85
+animale,5.7.3,CPU,coco_000000076417_dog.jpg,0,,,0.35,33.02,33.37,29.96,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000077595_cat.jpg,0,,,0.31,31.08,31.39,31.85,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000078565_dog.jpg,0,,,0.35,31.22,31.57,31.67,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000084362_cat.jpg,0,,,0.31,29.49,29.8,33.55,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000084650_cat.jpg,0,,,0.34,31.01,31.35,31.9,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000088951_dog.jpg,0,,,0.32,34.15,34.47,29.01,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000089880_dog.jpg,0,,,0.31,31.27,31.58,31.67,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000115885_cat.jpg,0,,,0.32,31.32,31.64,31.61,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000117908_cat.jpg,1,dog,0.493,0.31,31.12,31.44,31.81,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000119233_cat.jpg,2,cat;cat,0.653,0.35,30.94,31.29,31.96,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000119828_cat.jpg,1,cat,0.551,0.33,30.12,30.45,32.84,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000129756_dog.jpg,0,,,0.35,30.53,30.87,32.39,emergency_stop,PERICOL CRITIC: person la distanță 0.74
+animale,5.7.3,CPU,coco_000000139684_cat.jpg,0,,,0.31,30.48,30.8,32.47,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000139872_dog.jpg,1,dog,0.798,0.37,31.53,31.91,31.34,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000140203_dog.jpg,0,,,0.31,30.76,31.07,32.19,emergency_stop,PERICOL CRITIC: person la distanță 0.67
+animale,5.7.3,CPU,coco_000000149568_dog.jpg,0,,,0.37,31.13,31.5,31.75,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000155291_cat.jpg,0,,,0.35,31.29,31.64,31.61,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000159458_dog.jpg,0,,,0.31,30.71,31.01,32.24,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000166277_cat.jpg,0,,,0.33,30.02,30.35,32.95,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000169076_cat_dog.jpg,0,,,0.33,30.11,30.45,32.84,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000172330_cat.jpg,0,,,0.34,31.7,32.04,31.21,stop,"Pericol înalt (balanced): unknown, oprire preventivă"
+animale,5.7.3,CPU,coco_000000177015_cat.jpg,0,,,0.35,29.74,30.08,33.24,stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000185250_dog.jpg,1,dog,0.927,0.31,29.62,29.94,33.41,stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000189806_cat_dog.jpg,1,cat,0.591,0.32,29.76,30.08,33.25,emergency_stop,PERICOL CRITIC: animal la distanță 0.82
+animale,5.7.3,CPU,coco_000000190140_dog.jpg,0,,,0.31,34.51,34.82,28.72,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000193162_dog.jpg,0,,,0.31,30.68,31.0,32.26,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000193674_dog.jpg,0,,,0.32,31.03,31.36,31.89,emergency_stop,PERICOL CRITIC: person la distanță 0.72
+animale,5.7.3,CPU,coco_000000198641_cat.jpg,1,cat,0.527,0.36,30.04,30.4,32.9,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000205834_dog.jpg,0,,,0.35,32.41,32.76,30.52,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000206831_dog.jpg,0,,,0.34,28.92,29.26,34.18,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000211042_cat.jpg,0,,,0.34,32.34,32.68,30.6,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000222235_cat.jpg,0,,,0.37,29.88,30.25,33.06,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000225670_dog.jpg,0,,,0.31,30.87,31.17,32.08,continue,"Obstacol îndepărtat: unknown, precauție"
+animale,5.7.3,CPU,coco_000000236166_dog.jpg,0,,,0.35,34.48,34.83,28.71,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000240940_cat.jpg,0,,,0.36,30.9,31.26,31.99,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000241326_cat_dog.jpg,2,cat;dog,0.715,0.31,32.37,32.68,30.6,emergency_stop,PERICOL CRITIC: animal la distanță 0.89
+animale,5.7.3,CPU,coco_000000243344_cat.jpg,0,,,0.36,31.21,31.57,31.68,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000245576_cat.jpg,0,,,0.32,31.0,31.32,31.93,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000253386_dog.jpg,0,,,0.32,30.6,30.92,32.35,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000255965_cat.jpg,0,,,0.31,32.48,32.79,30.5,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000260925_cat.jpg,0,,,0.35,29.77,30.12,33.2,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000267300_dog.jpg,0,,,0.34,31.3,31.65,31.6,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000273642_dog.jpg,0,,,0.32,30.05,30.36,32.93,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000277584_cat.jpg,0,,,0.35,35.17,35.52,28.15,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000279145_cat.jpg,0,,,0.35,32.92,33.27,30.06,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000279278_dog.jpg,1,dog,0.824,0.33,30.34,30.67,32.61,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000291664_dog.jpg,0,,,0.37,32.66,33.03,30.28,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000297085_cat.jpg,0,,,0.32,30.92,31.24,32.01,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000309484_dog.jpg,0,,,0.33,29.36,29.69,33.68,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000309938_dog.jpg,0,,,0.34,32.11,32.45,30.81,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000327769_cat.jpg,0,,,0.31,29.39,29.7,33.67,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000329447_dog.jpg,0,,,0.32,34.01,34.33,29.13,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000347930_dog.jpg,1,dog,0.716,0.36,35.42,35.77,27.95,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000361621_cat.jpg,0,,,0.31,29.22,29.53,33.87,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000364636_dog.jpg,0,,,0.32,30.37,30.69,32.58,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000366611_dog.jpg,1,dog,0.592,0.31,29.17,29.48,33.92,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000367195_dog.jpg,0,,,0.3,29.6,29.9,33.45,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000375278_cat_dog.jpg,0,,,0.31,30.98,31.3,31.95,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000387383_cat.jpg,0,,,0.31,29.94,30.25,33.06,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000399560_cat.jpg,0,,,0.31,29.15,29.46,33.94,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000399655_dog.jpg,1,dog,0.493,0.3,30.98,31.28,31.97,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000401991_cat_dog.jpg,0,,,0.32,29.62,29.94,33.39,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000415990_dog.jpg,0,,,0.34,30.16,30.5,32.79,emergency_stop,PERICOL CRITIC: person la distanță 0.75
+animale,5.7.3,CPU,coco_000000416256_cat.jpg,0,,,0.32,29.91,30.23,33.08,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000433134_cat.jpg,1,dog,0.523,0.31,30.12,30.43,32.86,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000434996_cat.jpg,0,,,0.31,28.31,28.62,34.94,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000435299_cat.jpg,0,,,0.33,29.91,30.24,33.07,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000452891_dog.jpg,0,,,0.31,29.24,29.55,33.84,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000462728_dog.jpg,0,,,0.35,28.88,29.23,34.21,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000472375_dog.jpg,0,,,0.31,29.62,29.93,33.41,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000475732_cat.jpg,1,cat,0.727,0.31,29.26,29.57,33.82,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000476810_cat.jpg,1,cat,0.794,0.33,29.97,30.29,33.01,emergency_stop,PERICOL CRITIC: animal la distanță 0.87
+animale,5.7.3,CPU,coco_000000479155_dog.jpg,0,,,0.3,29.38,29.69,33.69,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000486479_dog.jpg,1,dog,0.813,0.32,28.64,28.97,34.52,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000489014_dog.jpg,0,,,0.31,29.14,29.44,33.96,stop,"Pericol înalt (balanced): unknown, oprire preventivă"
+animale,5.7.3,CPU,coco_000000490171_dog.jpg,0,,,0.31,28.46,28.77,34.76,stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000491216_cat.jpg,0,,,0.33,29.07,29.4,34.02,stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000498286_dog.jpg,0,,,0.31,30.17,30.48,32.81,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000520531_cat.jpg,0,,,0.31,29.98,30.29,33.01,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000524280_cat.jpg,0,,,0.34,29.74,30.08,33.24,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000530099_cat.jpg,0,,,0.31,31.6,31.91,31.34,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000532530_dog.jpg,0,,,0.31,30.85,31.16,32.09,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000554579_dog.jpg,1,dog,0.881,0.31,32.55,32.86,30.43,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000555005_dog.jpg,0,,,0.36,32.22,32.57,30.7,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU,coco_000000562561_dog.jpg,0,,,0.35,31.85,32.21,31.05,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000574315_cat.jpg,0,,,0.31,29.3,29.62,33.76,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU,coco_000000579321_dog.jpg,0,,,0.35,29.49,29.84,33.51,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000001675_cat.jpg,0,,,6081.3,44.14,6125.45,0.16,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000007386_dog.jpg,0,,,0.36,35.79,36.15,27.66,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000010363_cat.jpg,0,,,0.32,33.04,33.37,29.97,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000018833_cat.jpg,0,,,0.31,32.27,32.58,30.69,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000022192_dog.jpg,0,,,0.38,31.13,31.52,31.73,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000022892_cat_dog.jpg,0,,,0.36,31.26,31.62,31.63,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000047121_cat.jpg,1,cat,0.732,0.32,31.1,31.42,31.83,emergency_stop,PERICOL CRITIC: animal la distanță 1.00
+animale,5.7.3,CPU+FPGA,coco_000000049269_dog.jpg,0,,,0.32,30.48,30.8,32.47,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000049810_cat.jpg,0,,,0.36,29.66,30.02,33.31,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000052891_dog.jpg,0,,,0.31,30.42,30.73,32.54,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000058111_cat.jpg,0,,,0.31,29.93,30.24,33.07,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000060835_dog.jpg,0,,,0.36,38.0,38.36,26.07,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000063552_cat.jpg,0,,,0.34,31.44,31.79,31.46,emergency_stop,PERICOL CRITIC: unknown la distanță 0.85
+animale,5.7.3,CPU+FPGA,coco_000000076417_dog.jpg,0,,,0.35,31.37,31.72,31.52,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000077595_cat.jpg,0,,,0.32,31.61,31.93,31.32,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000078565_dog.jpg,0,,,0.31,30.11,30.42,32.87,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000084362_cat.jpg,0,,,0.31,30.51,30.82,32.45,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000084650_cat.jpg,0,,,0.33,29.88,30.2,33.11,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000088951_dog.jpg,0,,,0.31,30.33,30.64,32.64,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000089880_dog.jpg,0,,,0.31,30.02,30.33,32.97,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000115885_cat.jpg,0,,,0.31,30.09,30.4,32.89,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000117908_cat.jpg,1,dog,0.493,0.31,29.68,30.0,33.34,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000119233_cat.jpg,2,cat;cat,0.653,0.32,29.19,29.5,33.89,emergency_stop,PERICOL CRITIC: animal la distanță 1.00
+animale,5.7.3,CPU+FPGA,coco_000000119828_cat.jpg,1,cat,0.551,0.31,29.32,29.63,33.75,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000129756_dog.jpg,0,,,0.31,30.36,30.67,32.61,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000139684_cat.jpg,0,,,0.3,29.78,30.08,33.24,slow_down,Obstacol la distanță medie (balanced): unknown
+animale,5.7.3,CPU+FPGA,coco_000000139872_dog.jpg,1,dog,0.798,0.35,35.61,35.96,27.81,slow_down,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000140203_dog.jpg,0,,,0.34,30.02,30.36,32.94,slow_down,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000149568_dog.jpg,0,,,0.33,29.4,29.73,33.64,emergency_stop,PERICOL CRITIC: unknown la distanță 0.92
+animale,5.7.3,CPU+FPGA,coco_000000155291_cat.jpg,0,,,0.32,30.12,30.44,32.85,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000159458_dog.jpg,0,,,0.31,29.81,30.12,33.2,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000166277_cat.jpg,0,,,0.31,29.63,29.94,33.4,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000169076_cat_dog.jpg,0,,,0.31,29.73,30.04,33.29,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000172330_cat.jpg,0,,,0.31,32.67,32.98,30.32,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000177015_cat.jpg,0,,,0.32,29.85,30.17,33.15,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+animale,5.7.3,CPU+FPGA,coco_000000185250_dog.jpg,1,dog,0.927,0.31,30.07,30.39,32.91,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000189806_cat_dog.jpg,1,cat,0.591,0.31,30.03,30.34,32.96,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000190140_dog.jpg,0,,,0.33,30.23,30.56,32.73,emergency_stop,PERICOL CRITIC: unknown la distanță 0.84
+animale,5.7.3,CPU+FPGA,coco_000000193162_dog.jpg,0,,,0.31,29.19,29.5,33.9,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000193674_dog.jpg,0,,,0.31,29.64,29.95,33.38,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000198641_cat.jpg,1,cat,0.527,0.37,32.79,33.17,30.15,emergency_stop,PERICOL CRITIC: unknown la distanță 0.85
+animale,5.7.3,CPU+FPGA,coco_000000205834_dog.jpg,0,,,0.32,30.18,30.5,32.78,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000206831_dog.jpg,0,,,0.32,34.02,34.34,29.12,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000211042_cat.jpg,0,,,0.33,30.08,30.41,32.89,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000222235_cat.jpg,0,,,0.31,31.66,31.97,31.28,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000225670_dog.jpg,0,,,0.31,29.76,30.07,33.25,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000236166_dog.jpg,0,,,0.31,28.42,28.73,34.8,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000240940_cat.jpg,0,,,0.31,29.36,29.68,33.69,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000241326_cat_dog.jpg,2,cat;dog,0.715,0.31,29.35,29.65,33.72,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000243344_cat.jpg,0,,,0.31,29.63,29.94,33.4,stop,"Pericol înalt (balanced): unknown, oprire preventivă"
+animale,5.7.3,CPU+FPGA,coco_000000245576_cat.jpg,0,,,0.35,28.39,28.74,34.79,stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000253386_dog.jpg,0,,,0.31,29.23,29.54,33.86,stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000255965_cat.jpg,0,,,0.31,29.92,30.24,33.07,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000260925_cat.jpg,0,,,0.33,29.9,30.23,33.08,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000267300_dog.jpg,0,,,0.31,30.04,30.35,32.95,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000273642_dog.jpg,0,,,0.31,30.06,30.37,32.93,emergency_stop,PERICOL CRITIC: unknown la distanță 0.84
+animale,5.7.3,CPU+FPGA,coco_000000277584_cat.jpg,0,,,0.31,29.71,30.01,33.32,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000279145_cat.jpg,0,,,0.32,30.17,30.48,32.8,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000279278_dog.jpg,1,dog,0.824,0.31,30.77,31.08,32.18,emergency_stop,PERICOL CRITIC: animal la distanță 0.61
+animale,5.7.3,CPU+FPGA,coco_000000291664_dog.jpg,0,,,0.31,30.31,30.62,32.66,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000297085_cat.jpg,0,,,0.31,29.95,30.26,33.04,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000309484_dog.jpg,0,,,0.31,29.58,29.89,33.45,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000309938_dog.jpg,0,,,0.31,29.34,29.65,33.72,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000327769_cat.jpg,0,,,0.32,29.63,29.95,33.39,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000329447_dog.jpg,0,,,0.34,29.79,30.14,33.18,emergency_stop,PERICOL CRITIC: unknown la distanță 1.00
+animale,5.7.3,CPU+FPGA,coco_000000347930_dog.jpg,1,dog,0.716,0.31,29.6,29.91,33.44,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000361621_cat.jpg,0,,,0.31,29.67,29.98,33.36,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000364636_dog.jpg,0,,,0.31,29.41,29.72,33.65,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000366611_dog.jpg,1,dog,0.592,0.31,29.71,30.02,33.31,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000367195_dog.jpg,0,,,0.31,29.7,30.0,33.33,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000375278_cat_dog.jpg,0,,,0.31,29.37,29.68,33.69,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000387383_cat.jpg,0,,,0.31,29.93,30.24,33.06,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000399560_cat.jpg,0,,,0.31,29.35,29.66,33.71,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000399655_dog.jpg,1,dog,0.493,0.3,30.47,30.78,32.49,emergency_stop,PERICOL CRITIC: animal la distanță 1.00
+animale,5.7.3,CPU+FPGA,coco_000000401991_cat_dog.jpg,0,,,0.31,29.46,29.77,33.6,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000415990_dog.jpg,0,,,0.3,30.17,30.48,32.81,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000416256_cat.jpg,0,,,0.31,29.8,30.11,33.21,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000433134_cat.jpg,1,dog,0.523,0.31,30.58,30.89,32.38,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000434996_cat.jpg,0,,,0.3,30.24,30.55,32.74,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000435299_cat.jpg,0,,,0.32,30.22,30.53,32.75,emergency_stop,PERICOL CRITIC: unknown la distanță 0.85
+animale,5.7.3,CPU+FPGA,coco_000000452891_dog.jpg,0,,,0.31,29.07,29.38,34.03,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000462728_dog.jpg,0,,,0.31,30.75,31.06,32.2,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000472375_dog.jpg,0,,,0.33,30.03,30.36,32.93,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000475732_cat.jpg,1,cat,0.727,0.31,30.35,30.66,32.62,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000476810_cat.jpg,1,cat,0.794,0.31,29.9,30.2,33.11,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000479155_dog.jpg,0,,,0.3,30.3,30.61,32.67,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+animale,5.7.3,CPU+FPGA,coco_000000486479_dog.jpg,1,dog,0.813,0.31,29.72,30.03,33.31,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000489014_dog.jpg,0,,,0.33,30.96,31.28,31.97,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000490171_dog.jpg,0,,,0.32,29.63,29.94,33.4,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000491216_cat.jpg,0,,,0.32,30.03,30.35,32.95,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000498286_dog.jpg,0,,,0.31,30.17,30.48,32.81,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000520531_cat.jpg,0,,,0.35,30.13,30.48,32.81,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000524280_cat.jpg,0,,,0.32,29.61,29.93,33.41,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000530099_cat.jpg,0,,,0.3,29.28,29.58,33.8,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000532530_dog.jpg,0,,,0.33,29.38,29.71,33.66,continue,"Drum liber, niciun obstacol detectat"
+animale,5.7.3,CPU+FPGA,coco_000000554579_dog.jpg,1,dog,0.881,0.31,30.97,31.28,31.97,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000555005_dog.jpg,0,,,0.34,30.04,30.38,32.92,continue,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000562561_dog.jpg,0,,,0.31,30.1,30.41,32.88,emergency_stop,PERICOL CRITIC: unknown la distanță 0.92
+animale,5.7.3,CPU+FPGA,coco_000000574315_cat.jpg,0,,,0.32,30.24,30.57,32.71,emergency_stop,Menținere decizie anterioară (reaction time)
+animale,5.7.3,CPU+FPGA,coco_000000579321_dog.jpg,0,,,0.35,30.03,30.38,32.91,emergency_stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000000724_stop-sign.jpg,1,stop sign,0.947,0.32,31.13,31.45,31.79,stop,Semn STOP detectat (conf: 0.95)
+semne,5.7.4,CPU,coco_000000011122_stop-sign.jpg,1,stop sign,0.972,0.32,29.17,29.49,33.91,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000015440_stop-sign.jpg,1,stop sign,0.75,0.31,29.69,30.0,33.34,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000021839_traffic-light.jpg,1,traffic light,0.655,0.32,29.36,29.68,33.69,stop,Oprire la semn STOP (0.1s/2.0s)
+semne,5.7.4,CPU,coco_000000071877_traffic-light.jpg,0,,,0.31,28.69,29.0,34.48,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000076547_traffic-light.jpg,0,,,0.3,29.53,29.83,33.52,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000079408_stop-sign.jpg,1,stop sign,0.957,0.31,29.36,29.67,33.7,stop,Semn STOP detectat (conf: 0.96)
+semne,5.7.4,CPU,coco_000000088462_stop-sign.jpg,0,,,0.3,30.21,30.51,32.78,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000095899_stop-sign.jpg,1,stop sign,0.952,0.31,29.44,29.75,33.62,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000100283_stop-sign.jpg,1,stop sign,0.918,0.3,29.36,29.66,33.71,stop,Semn STOP detectat (conf: 0.92)
+semne,5.7.4,CPU,coco_000000100723_stop-sign.jpg,0,,,0.3,29.63,29.94,33.4,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000104782_stop-sign.jpg,0,,,0.3,29.6,29.9,33.44,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000119516_traffic-light.jpg,0,,,0.34,30.02,30.36,32.93,stop,Oprire la semn STOP (0.4s/2.0s)
+semne,5.7.4,CPU,coco_000000122166_traffic-light.jpg,0,,,0.31,29.61,29.92,33.42,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000122745_stop-sign.jpg,1,stop sign,0.847,0.38,30.33,30.71,32.57,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000126592_stop-sign.jpg,1,stop sign,0.95,0.31,29.2,29.51,33.89,stop,Semn STOP detectat (conf: 0.95)
+semne,5.7.4,CPU,coco_000000127092_stop-sign.jpg,0,,,0.31,29.92,30.22,33.09,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000144706_traffic-light.jpg,0,,,0.3,28.73,29.03,34.44,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000153568_stop-sign.jpg,0,,,0.31,28.6,28.91,34.59,stop,Oprire la semn STOP (0.6s/2.0s)
+semne,5.7.4,CPU,coco_000000165039_traffic-light.jpg,0,,,0.3,28.55,28.86,34.65,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000169996_traffic-light.jpg,1,traffic light,0.488,0.31,29.53,29.85,33.51,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000172856_stop-sign.jpg,1,stop sign,0.915,0.31,29.42,29.72,33.64,stop,Semn STOP detectat (conf: 0.92)
+semne,5.7.4,CPU,coco_000000174482_traffic-light.jpg,0,,,0.31,29.83,30.13,33.19,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000176037_traffic-light.jpg,0,,,0.31,30.01,30.32,32.98,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000183246_traffic-light.jpg,0,,,0.3,29.9,30.2,33.11,stop,Oprire la semn STOP (0.8s/2.0s)
+semne,5.7.4,CPU,coco_000000184324_stop-sign.jpg,0,,,0.31,30.17,30.47,32.81,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000190923_traffic-light.jpg,1,traffic light,0.451,0.32,28.6,28.92,34.58,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000191471_stop-sign.jpg,1,stop sign,0.898,0.31,29.54,29.85,33.5,stop,Semn STOP detectat (conf: 0.90)
+semne,5.7.4,CPU,coco_000000192716_stop-sign.jpg,1,stop sign,0.937,0.31,28.91,29.23,34.22,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000193717_traffic-light.jpg,1,traffic light,0.533,0.35,28.76,29.11,34.36,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000201148_traffic-light.jpg,0,,,0.33,29.16,29.49,33.91,stop,Oprire la semn STOP (1.0s/2.0s)
+semne,5.7.4,CPU,coco_000000212072_stop-sign.jpg,1,stop sign,0.947,0.31,29.86,30.17,33.15,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000213255_traffic-light.jpg,0,,,0.31,30.58,30.89,32.38,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000214200_stop-sign.jpg,1,stop sign,0.953,0.33,29.43,29.76,33.6,stop,Semn STOP detectat (conf: 0.95)
+semne,5.7.4,CPU,coco_000000221754_traffic-light.jpg,2,traffic light;traffic light,0.537,0.31,29.56,29.87,33.47,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000226417_traffic-light.jpg,2,traffic light;traffic light,0.623,0.3,29.44,29.75,33.62,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000228942_traffic-light.jpg,1,traffic light,0.476,0.3,28.54,28.85,34.67,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000230450_traffic-light.jpg,0,,,0.31,30.78,31.09,32.16,stop,Oprire la semn STOP (1.3s/2.0s)
+semne,5.7.4,CPU,coco_000000232646_stop-sign.jpg,1,stop sign,0.932,0.31,30.63,30.94,32.32,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000244379_traffic-light.jpg,2,traffic light;traffic light,0.824,0.31,29.75,30.06,33.26,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000252332_stop-sign.jpg,1,stop sign,0.943,0.33,29.26,29.59,33.79,stop,Semn STOP detectat (conf: 0.94)
+semne,5.7.4,CPU,coco_000000255917_traffic-light.jpg,0,,,0.31,28.92,29.23,34.21,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000260266_traffic-light.jpg,2,traffic light;traffic light,0.672,0.31,29.85,30.16,33.16,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000261888_stop-sign.jpg,0,,,0.31,30.0,30.3,33.0,stop,Oprire la semn STOP (1.5s/2.0s)
+semne,5.7.4,CPU,coco_000000273617_stop-sign.jpg,1,stop sign,0.682,0.31,30.04,30.35,32.95,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000274272_traffic-light.jpg,0,,,0.31,30.26,30.58,32.71,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000281179_traffic-light.jpg,0,,,0.34,30.89,31.23,32.02,stop,Oprire la semn STOP (1.6s/2.0s)
+semne,5.7.4,CPU,coco_000000283037_traffic-light.jpg,0,,,0.31,29.66,29.97,33.37,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000283038_stop-sign_traffic-light.jpg,1,stop sign,0.908,0.3,29.63,29.93,33.41,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000284762_traffic-light.jpg,0,,,0.31,28.48,28.79,34.73,stop,Oprire la semn STOP (1.7s/2.0s)
+semne,5.7.4,CPU,coco_000000289222_traffic-light.jpg,2,traffic light;traffic light,0.826,0.31,29.65,29.96,33.37,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000297343_stop-sign.jpg,1,stop sign,0.789,0.31,30.17,30.48,32.8,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000309173_stop-sign.jpg,1,stop sign,0.912,0.32,30.27,30.6,32.68,stop,Oprire la semn STOP (1.8s/2.0s)
+semne,5.7.4,CPU,coco_000000311883_traffic-light.jpg,2,traffic light;traffic light,0.539,0.31,30.23,30.54,32.75,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000315187_traffic-light.jpg,0,,,0.31,30.04,30.35,32.95,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000323751_traffic-light.jpg,0,,,0.3,29.98,30.29,33.02,stop,Oprire la semn STOP (1.9s/2.0s)
+semne,5.7.4,CPU,coco_000000326627_traffic-light.jpg,0,,,0.31,36.65,36.95,27.06,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000333697_stop-sign.jpg,0,,,0.32,29.66,29.98,33.36,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000336587_stop-sign.jpg,2,stop sign;traffic light,0.836,0.33,30.17,30.51,32.78,continue,"Obstacol îndepărtat: traffic_sign, precauție"
+semne,5.7.4,CPU,coco_000000343496_stop-sign.jpg,1,stop sign,0.844,0.32,29.73,30.05,33.28,continue,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000347163_stop-sign.jpg,2,stop sign;stop sign,0.712,0.31,29.61,29.91,33.43,continue,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000361506_stop-sign.jpg,0,,,0.31,28.8,29.11,34.36,continue,"Drum liber, niciun obstacol detectat"
+semne,5.7.4,CPU,coco_000000369442_stop-sign.jpg,0,,,0.33,29.92,30.25,33.06,continue,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000369751_stop-sign.jpg,1,stop sign,0.629,0.31,30.83,31.15,32.11,continue,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000375493_stop-sign.jpg,0,,,0.31,30.03,30.33,32.97,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+semne,5.7.4,CPU,coco_000000377946_traffic-light.jpg,2,traffic light;traffic light,0.584,0.31,29.08,29.39,34.03,emergency_stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000379800_stop-sign.jpg,0,,,0.32,32.08,32.4,30.86,emergency_stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000380706_traffic-light.jpg,0,,,0.32,29.02,29.34,34.08,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+semne,5.7.4,CPU,coco_000000381971_stop-sign.jpg,0,,,0.31,28.99,29.29,34.14,emergency_stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000413689_stop-sign_traffic-light.jpg,0,,,0.31,29.97,30.28,33.03,emergency_stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000414133_stop-sign.jpg,1,stop sign,0.799,0.37,30.11,30.48,32.81,stop,Semn STOP detectat (conf: 0.80)
+semne,5.7.4,CPU,coco_000000417779_stop-sign.jpg,0,,,0.31,29.91,30.22,33.09,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000418696_traffic-light.jpg,0,,,0.32,30.04,30.35,32.94,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000423229_traffic-light.jpg,0,,,0.33,29.18,29.52,33.88,stop,Oprire la semn STOP (0.1s/2.0s)
+semne,5.7.4,CPU,coco_000000424975_stop-sign.jpg,0,,,0.33,29.76,30.09,33.23,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000427055_stop-sign.jpg,0,,,0.33,29.59,29.91,33.43,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000438017_traffic-light.jpg,0,,,0.31,29.52,29.83,33.53,stop,Oprire la semn STOP (0.2s/2.0s)
+semne,5.7.4,CPU,coco_000000441553_traffic-light.jpg,0,,,0.34,28.65,28.99,34.5,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000449198_stop-sign_traffic-light.jpg,0,,,0.32,28.49,28.81,34.72,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000454661_traffic-light.jpg,3,traffic light;traffic light;traffic light,0.506,0.31,29.87,30.18,33.14,stop,Oprire la semn STOP (0.3s/2.0s)
+semne,5.7.4,CPU,coco_000000475484_traffic-light.jpg,0,,,0.36,29.98,30.34,32.96,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000479030_traffic-light.jpg,0,,,0.3,29.92,30.23,33.08,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000480944_stop-sign_traffic-light.jpg,2,traffic light;traffic light,0.665,0.31,31.01,31.31,31.94,stop,Oprire la semn STOP (0.4s/2.0s)
+semne,5.7.4,CPU,coco_000000484029_stop-sign.jpg,1,stop sign,0.964,0.32,30.41,30.73,32.54,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000491213_traffic-light.jpg,0,,,0.32,29.74,30.06,33.27,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000491470_traffic-light.jpg,0,,,0.3,30.05,30.35,32.95,stop,Oprire la semn STOP (0.5s/2.0s)
+semne,5.7.4,CPU,coco_000000496854_traffic-light.jpg,0,,,0.32,29.74,30.06,33.27,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000499181_stop-sign_traffic-light.jpg,0,,,0.31,29.47,29.79,33.57,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000501023_stop-sign_traffic-light.jpg,3,stop sign;stop sign;stop sign,0.661,0.32,30.21,30.53,32.75,stop,Oprire la semn STOP (0.6s/2.0s)
+semne,5.7.4,CPU,coco_000000522940_stop-sign.jpg,1,stop sign,0.91,0.31,28.89,29.21,34.24,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000523194_stop-sign.jpg,0,,,0.31,30.12,30.43,32.86,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000528980_stop-sign.jpg,0,,,0.31,30.22,30.53,32.76,stop,Oprire la semn STOP (0.7s/2.0s)
+semne,5.7.4,CPU,coco_000000538458_traffic-light.jpg,0,,,0.32,29.56,29.88,33.46,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000558558_traffic-light.jpg,0,,,0.3,29.77,30.07,33.25,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000565778_traffic-light.jpg,0,,,0.3,29.79,30.1,33.23,stop,Oprire la semn STOP (0.8s/2.0s)
+semne,5.7.4,CPU,coco_000000569030_traffic-light.jpg,0,,,0.3,29.57,29.87,33.48,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000571008_stop-sign.jpg,1,stop sign,0.851,0.31,30.91,31.22,32.03,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000571943_traffic-light.jpg,0,,,0.31,30.1,30.41,32.89,stop,Oprire la semn STOP (0.9s/2.0s)
+semne,5.7.4,CPU,coco_000000572555_traffic-light.jpg,0,,,0.34,29.85,30.19,33.12,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU,coco_000000580418_stop-sign.jpg,0,,,0.32,29.37,29.69,33.69,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000000724_stop-sign.jpg,1,stop sign,0.947,6078.38,38.78,6117.16,0.16,stop,Semn STOP detectat (conf: 0.95)
+semne,5.7.4,CPU+FPGA,coco_000000011122_stop-sign.jpg,1,stop sign,0.972,0.35,33.14,33.49,29.86,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000015440_stop-sign.jpg,1,stop sign,0.75,0.39,34.08,34.47,29.01,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000021839_traffic-light.jpg,1,traffic light,0.655,0.32,35.84,36.15,27.66,stop,Oprire la semn STOP (0.1s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000071877_traffic-light.jpg,0,,,0.35,35.01,35.36,28.28,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000076547_traffic-light.jpg,0,,,0.32,32.5,32.83,30.46,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000079408_stop-sign.jpg,1,stop sign,0.957,0.35,31.43,31.77,31.47,stop,Semn STOP detectat (conf: 0.96)
+semne,5.7.4,CPU+FPGA,coco_000000088462_stop-sign.jpg,0,,,0.32,32.49,32.81,30.48,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000095899_stop-sign.jpg,1,stop sign,0.952,0.32,34.0,34.33,29.13,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000100283_stop-sign.jpg,1,stop sign,0.918,0.36,33.34,33.69,29.68,stop,Semn STOP detectat (conf: 0.92)
+semne,5.7.4,CPU+FPGA,coco_000000100723_stop-sign.jpg,0,,,0.31,31.99,32.29,30.97,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000104782_stop-sign.jpg,0,,,0.35,31.45,31.8,31.44,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000119516_traffic-light.jpg,0,,,0.31,30.63,30.95,32.32,stop,Oprire la semn STOP (0.5s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000122166_traffic-light.jpg,0,,,0.31,31.03,31.34,31.91,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000122745_stop-sign.jpg,1,stop sign,0.847,0.36,31.09,31.45,31.79,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000126592_stop-sign.jpg,1,stop sign,0.95,0.32,30.18,30.5,32.79,stop,Semn STOP detectat (conf: 0.95)
+semne,5.7.4,CPU+FPGA,coco_000000127092_stop-sign.jpg,0,,,0.33,30.43,30.76,32.51,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000144706_traffic-light.jpg,0,,,0.31,30.02,30.34,32.96,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000153568_stop-sign.jpg,0,,,0.3,31.17,31.47,31.77,stop,Oprire la semn STOP (0.7s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000165039_traffic-light.jpg,0,,,0.32,29.6,29.92,33.42,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000169996_traffic-light.jpg,1,traffic light,0.488,0.36,30.28,30.63,32.65,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000172856_stop-sign.jpg,1,stop sign,0.915,0.31,29.79,30.1,33.22,stop,Semn STOP detectat (conf: 0.92)
+semne,5.7.4,CPU+FPGA,coco_000000174482_traffic-light.jpg,0,,,0.31,29.79,30.1,33.22,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000176037_traffic-light.jpg,0,,,0.35,30.06,30.41,32.89,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000183246_traffic-light.jpg,0,,,0.31,30.17,30.48,32.81,stop,Oprire la semn STOP (0.9s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000184324_stop-sign.jpg,0,,,0.31,29.77,30.09,33.23,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000190923_traffic-light.jpg,1,traffic light,0.451,0.3,29.48,29.78,33.57,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000191471_stop-sign.jpg,1,stop sign,0.898,0.35,31.76,32.11,31.15,stop,Semn STOP detectat (conf: 0.90)
+semne,5.7.4,CPU+FPGA,coco_000000192716_stop-sign.jpg,1,stop sign,0.937,0.33,29.88,30.22,33.1,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000193717_traffic-light.jpg,1,traffic light,0.533,0.31,29.3,29.61,33.77,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000201148_traffic-light.jpg,0,,,0.31,30.28,30.58,32.7,stop,Oprire la semn STOP (1.1s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000212072_stop-sign.jpg,1,stop sign,0.947,0.31,31.15,31.46,31.79,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000213255_traffic-light.jpg,0,,,0.31,30.58,30.89,32.37,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000214200_stop-sign.jpg,1,stop sign,0.953,0.34,30.18,30.52,32.77,stop,Semn STOP detectat (conf: 0.95)
+semne,5.7.4,CPU+FPGA,coco_000000221754_traffic-light.jpg,2,traffic light;traffic light,0.537,0.34,30.27,30.61,32.67,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000226417_traffic-light.jpg,2,traffic light;traffic light,0.623,0.31,30.1,30.4,32.89,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000228942_traffic-light.jpg,1,traffic light,0.476,0.35,30.11,30.46,32.83,stop,Oprire la semn STOP (1.3s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000230450_traffic-light.jpg,0,,,0.32,30.58,30.9,32.36,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000232646_stop-sign.jpg,1,stop sign,0.932,0.31,30.94,31.24,32.01,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000244379_traffic-light.jpg,2,traffic light;traffic light,0.824,0.31,30.37,30.68,32.6,stop,Oprire la semn STOP (1.4s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000252332_stop-sign.jpg,1,stop sign,0.943,0.36,31.11,31.46,31.78,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000255917_traffic-light.jpg,0,,,0.31,30.15,30.46,32.83,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000260266_traffic-light.jpg,2,traffic light;traffic light,0.672,0.31,30.7,31.01,32.25,stop,Oprire la semn STOP (1.5s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000261888_stop-sign.jpg,0,,,0.33,29.55,29.88,33.46,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000273617_stop-sign.jpg,1,stop sign,0.682,0.35,31.42,31.77,31.47,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000274272_traffic-light.jpg,0,,,0.33,30.56,30.89,32.37,stop,Oprire la semn STOP (1.6s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000281179_traffic-light.jpg,0,,,0.31,30.25,30.56,32.72,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000283037_traffic-light.jpg,0,,,0.4,30.53,30.93,32.33,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000283038_stop-sign_traffic-light.jpg,1,stop sign,0.908,0.31,30.49,30.8,32.47,stop,Oprire la semn STOP (1.7s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000284762_traffic-light.jpg,0,,,0.32,29.37,29.69,33.68,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000289222_traffic-light.jpg,2,traffic light;traffic light,0.826,0.31,29.45,29.75,33.61,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000297343_stop-sign.jpg,1,stop sign,0.789,0.31,29.9,30.21,33.11,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000309173_stop-sign.jpg,1,stop sign,0.912,0.31,29.3,29.61,33.77,stop,Oprire la semn STOP (1.8s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000311883_traffic-light.jpg,2,traffic light;traffic light,0.539,0.31,29.65,29.95,33.39,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000315187_traffic-light.jpg,0,,,0.31,29.65,29.95,33.38,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000323751_traffic-light.jpg,0,,,0.34,32.39,32.73,30.55,stop,Oprire la semn STOP (1.9s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000326627_traffic-light.jpg,0,,,0.33,32.44,32.77,30.52,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000333697_stop-sign.jpg,0,,,0.39,30.28,30.67,32.6,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000336587_stop-sign.jpg,2,stop sign;traffic light,0.836,0.31,29.16,29.47,33.93,continue,"Obstacol îndepărtat: traffic_sign, precauție"
+semne,5.7.4,CPU+FPGA,coco_000000343496_stop-sign.jpg,1,stop sign,0.844,0.31,29.49,29.79,33.56,continue,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000347163_stop-sign.jpg,2,stop sign;stop sign,0.712,0.32,31.13,31.45,31.8,continue,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000361506_stop-sign.jpg,0,,,0.31,29.3,29.61,33.77,continue,"Drum liber, niciun obstacol detectat"
+semne,5.7.4,CPU+FPGA,coco_000000369442_stop-sign.jpg,0,,,0.32,29.87,30.19,33.12,continue,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000369751_stop-sign.jpg,1,stop sign,0.629,0.31,29.64,29.95,33.38,continue,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000375493_stop-sign.jpg,0,,,0.31,29.33,29.63,33.74,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+semne,5.7.4,CPU+FPGA,coco_000000377946_traffic-light.jpg,2,traffic light;traffic light,0.584,0.31,29.74,30.05,33.28,emergency_stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000379800_stop-sign.jpg,0,,,0.31,29.08,29.39,34.02,emergency_stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000380706_traffic-light.jpg,0,,,0.31,30.25,30.56,32.73,emergency_stop,PERICOL CRITIC: person la distanță 1.00
+semne,5.7.4,CPU+FPGA,coco_000000381971_stop-sign.jpg,0,,,0.31,29.37,29.68,33.69,emergency_stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000413689_stop-sign_traffic-light.jpg,0,,,0.31,28.96,29.27,34.17,emergency_stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000414133_stop-sign.jpg,1,stop sign,0.799,0.36,37.09,37.44,26.71,stop,Semn STOP detectat (conf: 0.80)
+semne,5.7.4,CPU+FPGA,coco_000000417779_stop-sign.jpg,0,,,0.31,30.19,30.5,32.78,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000418696_traffic-light.jpg,0,,,0.31,29.8,30.11,33.22,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000423229_traffic-light.jpg,0,,,0.32,29.44,29.76,33.61,stop,Oprire la semn STOP (0.1s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000424975_stop-sign.jpg,0,,,0.32,30.11,30.43,32.86,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000427055_stop-sign.jpg,0,,,0.31,29.71,30.02,33.31,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000438017_traffic-light.jpg,0,,,0.31,30.12,30.43,32.87,stop,Oprire la semn STOP (0.2s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000441553_traffic-light.jpg,0,,,0.35,30.12,30.47,32.82,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000449198_stop-sign_traffic-light.jpg,0,,,0.31,29.2,29.51,33.89,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000454661_traffic-light.jpg,3,traffic light;traffic light;traffic light,0.506,0.31,31.0,31.31,31.94,stop,Oprire la semn STOP (0.3s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000475484_traffic-light.jpg,0,,,0.34,29.94,30.29,33.02,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000479030_traffic-light.jpg,0,,,0.31,30.27,30.58,32.7,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000480944_stop-sign_traffic-light.jpg,2,traffic light;traffic light,0.665,0.31,31.12,31.43,31.81,stop,Oprire la semn STOP (0.4s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000484029_stop-sign.jpg,1,stop sign,0.964,0.31,30.47,30.78,32.49,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000491213_traffic-light.jpg,0,,,0.35,30.12,30.47,32.82,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000491470_traffic-light.jpg,0,,,0.32,33.18,33.5,29.85,stop,Oprire la semn STOP (0.5s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000496854_traffic-light.jpg,0,,,0.37,31.22,31.59,31.66,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000499181_stop-sign_traffic-light.jpg,0,,,0.31,29.7,30.01,33.32,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000501023_stop-sign_traffic-light.jpg,3,stop sign;stop sign;stop sign,0.661,0.31,30.07,30.37,32.92,stop,Oprire la semn STOP (0.6s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000522940_stop-sign.jpg,1,stop sign,0.91,0.37,30.75,31.12,32.14,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000523194_stop-sign.jpg,0,,,0.31,30.55,30.86,32.4,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000528980_stop-sign.jpg,0,,,0.32,31.23,31.55,31.7,stop,Oprire la semn STOP (0.7s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000538458_traffic-light.jpg,0,,,0.32,31.09,31.41,31.83,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000558558_traffic-light.jpg,0,,,0.31,29.91,30.22,33.09,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000565778_traffic-light.jpg,0,,,0.31,29.57,29.89,33.46,stop,Oprire la semn STOP (0.8s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000569030_traffic-light.jpg,0,,,0.31,29.9,30.21,33.11,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000571008_stop-sign.jpg,1,stop sign,0.851,0.31,29.34,29.65,33.73,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000571943_traffic-light.jpg,0,,,0.32,31.11,31.43,31.82,stop,Oprire la semn STOP (0.9s/2.0s)
+semne,5.7.4,CPU+FPGA,coco_000000572555_traffic-light.jpg,0,,,0.38,29.71,30.09,33.23,stop,Menținere decizie anterioară (reaction time)
+semne,5.7.4,CPU+FPGA,coco_000000580418_stop-sign.jpg,0,,,0.31,29.49,29.8,33.55,stop,Menținere decizie anterioară (reaction time)
