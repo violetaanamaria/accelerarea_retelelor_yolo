@@ -1,0 +1,103 @@
+# Configurație YOLO FPGA — Digilent Nexys 4 DDR + MacBook (CPU)
+# Arhitectură hibridă: FPGA = preprocesare, CPU = inferență YOLOv8n
+
+# Cameră USB (sistem host)
+camera:
+  device: "/dev/video0"   # macOS: index 0 sau 1
+  width: 640
+  height: 480
+  fps: 30
+  format: "MJPEG"
+  brightness: 50
+  contrast: 50
+  saturation: 50
+  auto_exposure: true
+
+# FPGA Nexys 4 DDR (preprocesare hardware via UART)
+fpga:
+  board: "Digilent Nexys 4 DDR"
+  chip: "Xilinx Artix-7 XC7A100T"
+  # Rezoluție trimisă la FPGA — MAX_BYTES=57600 in frame_engine.v (160x120x3)
+  send_size: [160, 120]
+  # Rezoluție YOLO pe host (resize OpenCV după primirea RGB de la FPGA)
+  output_size: [640, 640]
+  # Protocol UART — nexys_grayscale = nume legacy; FPGA v2 = RGB pass-through (AA55 + len + XOR)
+  protocol: nexys_grayscale
+  uart_paced: false        # false = bulk (frame_engine.v stocheaza tot in BRAM)
+  # Dacă placa nu e conectată, simulează preprocesarea local
+  simulate_on_fail: true
+  uart:
+    port: "/dev/cu.usbserial-210292AA76C91"  # UART pe Nexys 4 DDR (C91=UART, C90=JTAG)
+    baudrate: 3000000     # 3 Mbaud — bitstream din fpga/mbaud/ (CLKS_PER_BIT=33, eroare ~1%)
+    timeout: 5.0          # 160x120x3 x2 @ 3Mbaud (~390ms/cadru)
+
+# Inferență YOLO (exclusiv pe CPU — PyTorch/Ultralytics)
+yolo:
+  model_paths:
+    - "datasets/models/yolov8n.pt"
+    - "models/yolov8n.pt"
+  confidence_threshold: 0.45
+  nms_threshold: 0.50
+  input_size: [640, 640]
+  classes:
+    - "person"
+    - "bicycle"
+    - "car"
+    - "motorcycle"
+    - "bus"
+    - "truck"
+    - "traffic_light"
+    - "stop_sign"
+    - "dog"
+    - "cat"
+
+# Detecție obstacole
+detection:
+  roi:
+    x_min: 0.1
+    x_max: 0.9
+    y_min: 0.3
+    y_max: 1.0
+  obstacle:
+    min_area: 0.02
+    danger_zone: 0.6
+    critical_zone: 0.8
+  traffic_sign:
+    min_confidence: 0.7
+    recognition_distance: 0.15
+
+# Decizie navigare
+decision:
+  mode: "autonomous"
+  # conservative | balanced | aggressive — ajustează reacția la nivel HIGH/MEDIUM
+  risk_profile: "balanced"
+  avoidance_strategy: "stop_and_plan"
+  reaction_time: 100
+  stop_duration: 2000
+  safe_distance:
+    min: 0.3
+    comfortable: 0.5
+  priority:
+    person: 10
+    vehicle: 8
+    animal: 9
+    static_obstacle: 5
+    traffic_sign: 7
+
+# Control motoare — eliminat (proiect focusat pe CPU–FPGA + detecție)
+logging:
+  level: "INFO"
+  save_images: true
+  save_path: "./logs"
+  max_log_size: 100
+  rotation: true
+
+# Performanță
+performance:
+  buffer_size: 5
+
+# Siguranță
+safety:
+  emergency_stop_enabled: true
+  max_no_detection_time: 1000
+  fail_safe_mode: "stop"

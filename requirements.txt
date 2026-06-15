@@ -1,0 +1,39 @@
+# Dependențe Python — YOLO FPGA (Nexys 4 DDR + CPU)
+# Instalare: pip3 install -r requirements.txt
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Numerical Computing
+numpy>=1.24.0
+
+# Configuration
+pyyaml>=6.0
+pillow>=10.0.0
+
+# YOLO (Ultralytics YOLOv8 — inferență pe CPU)
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Comunicație FPGA (UART/USB)
+pyserial>=3.5
+
+# Visualization & Benchmark
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# Utilities
+loguru>=0.7.0
+
+# Testing (opțional)
+pytest>=7.4.0
+
+# ---------------------------------------------------------------------------
+# NOTĂ: Modelul YOLOv8n trebuie descărcat separat:
+#   bash scripts/download_yolo_model.sh
+# Salvat în: datasets/models/yolov8n.pt (~6.2 MB)
+#
+# FPGA: proiectul VHDL se sintetizează în Vivado (Windows/Linux),
+#       bitstream-ul se încarcă pe Nexys 4 DDR, apoi rulezi Python pe Mac.
+# ---------------------------------------------------------------------------

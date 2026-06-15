@@ -1,0 +1,36 @@
+# Comenzi rapide — YOLO FPGA (Nexys 4 DDR)
+
+## Instalare
+pip3 install -r requirements.txt
+bash scripts/download_yolo_model.sh
+bash scripts/download_coco_scenarios.sh   # 15 poze/scenariu din COCO
+bash scripts/setup_scenario_images.sh       # sample mic manual
+
+## Rulare generală
+python3 run_detection.py --images datasets/test_images/
+python3 run_detection.py --benchmark --images datasets/test_images/
+
+## Mod hibrid CPU+FPGA (Nexys conectată, bitstream v2 încărcat)
+python3 scripts/test_fpga_uart.py --port /dev/cu.usbserial-XXXX
+python3 run_detection.py --use-fpga --images datasets/test_images/
+python3 run_detection.py --use-fpga --benchmark
+
+## Vivado (manual — vezi fpga/README.md)
+# Top: fpga/rtl/nexys4ddr_yolo_preprocessor_top_v2.v
+# Constraints: fpga/constraints/Nexys4DDR_UART.xdc
+# Set as Top: nexys4ddr_yolo_preprocessor_top_v2.v
+
+## Testare 4 scenarii (capitol 5.7)
+python3 run_scenarios.py                    # CPU + FPGA (dacă placa e detectată)
+python3 run_scenarios.py --cpu-only         # doar baseline CPU
+python3 scripts/update_docx_scenarios.py    # actualizează tabele Word
+python3 scripts/update_docx_implementation.py  # aliniază capitolul 4 Word
+python3 scripts/update_docx_romanian_terms.py   # termeni englezi → română (Word)
+python3 run_scenarios.py --scenario persoane
+python3 run_scenarios.py --scenario vehicule
+
+## Rezultate scenarii
+logs/scenarios_report.md      ← raport pentru Word
+logs/scenarios_summary.csv    ← tabel rezumat
+logs/scenarios_results.csv    ← detaliu per imagine
+datasets/demo_results/scenarios/
